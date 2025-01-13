@@ -1,6 +1,9 @@
-Here's a draft for a `README.md` file for your IMDb Review Analysis project:
+### Name: Ashika Jain  
+### Company: CODTECH IT SOLUTIONS
+### ID: CT08FDI
+### Domain: Data Analytics
+### Duration: December to January 2025
 
----
 
 # IMDb Review Analysis 🎬
 
